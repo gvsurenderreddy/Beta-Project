@@ -1,8 +1,13 @@
-zmiana nazwy hosta (done)
-dodanie urzytkownika live (done)
-zmiana lokalizacji obrazu (done)
-zmiana autologowanego urzytkownika (done)
-dodanie podstawowych sterownikow tz. sterowniki graficzne, vbox, touchpad
+zmiana nazwy hosta (done + clean)
+dodanie urzytkownika live (done + clean)
+zmiana lokalizacji obrazu (done + clean)
+zmiana autologowanego urzytkownika (done +clean)
+zmiana czcionki i lokalizacji terminala
+dodanie podstawowych sterownikow tz. sterowniki graficzne, vbox, touchpad (done bez vbox)
 odblokowanie multilib dla 64 bit
-dodanie podstawowych paczek tz. biblioteki 32 bit dla 64 bit os, python/ruby(zastanowic sie), xorg-server, xdg-dirs, xfce4, xinitrc.
+odblokowanie biblioteki 32 bit dla 64 bit os 
+python/ruby(zastanowic sie)
+stos graficzny xorg-server, xdg-dirs, xfce4, xinitrc. (done, usunąc zbędne paczki z xfce4-goodies)
+ustawić uruchomienie stosu graficznego (done)
+dodać montowanie dyskow
 wybrac dodatkowy soft 
