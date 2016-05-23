@@ -3,7 +3,8 @@ dodanie urzytkownika live (done + clean)
 zmiana lokalizacji obrazu (done + clean)
 zmiana autologowanego urzytkownika (done +clean)
 zmiana czcionki i lokalizacji terminala
-dodanie podstawowych sterownikow tz. sterowniki graficzne, vbox, touchpad (done bez vbox)
+zmiana nazewnictwa obrazu (done)
+dodanie podstawowych sterownikow tz. sterowniki graficzne, vbox, touchpad (done bez VirtualBox guest services)
 odblokowanie multilib dla 64 bit
 odblokowanie biblioteki 32 bit dla 64 bit os 
 python/ruby(zastanowic sie)
@@ -11,3 +12,6 @@ stos graficzny xorg-server, xdg-dirs, xfce4, xinitrc. (done, usunąc zbędne pac
 ustawić uruchomienie stosu graficznego (done)
 dodać montowanie dyskow
 wybrac dodatkowy soft 
+
+Porównać zmiany z nową wersją archiso(21-05-2016)
+
