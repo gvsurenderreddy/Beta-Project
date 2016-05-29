@@ -4,7 +4,7 @@ zmiana lokalizacji obrazu (done + clean)
 zmiana autologowanego urzytkownika (done +clean)
 zmiana czcionki i lokalizacji terminala
 zmiana nazewnictwa obrazu (done)
-dodanie podstawowych sterownikow tz. sterowniki graficzne, vbox, touchpad (done bez VirtualBox guest services)
+dodanie podstawowych sterownikow tz. sterowniki graficzne, vbox, vmware, touchpad (done bez VirtualBox guest services i vmware)
 odblokowanie multilib dla 64 bit
 odblokowanie biblioteki 32 bit dla 64 bit os 
 python/ruby(zastanowic sie)

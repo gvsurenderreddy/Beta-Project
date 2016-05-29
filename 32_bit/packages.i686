@@ -7,6 +7,7 @@ virtualbox-guest-utils
 virtualbox-guest-modules-arch
 mesa
 mesa-libgl
+mesa-vdpau
 xf86-input-synaptics
 xdg-user-dirs
 xdg-user-dirs-gtk
